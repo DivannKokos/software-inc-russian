@@ -20,7 +20,9 @@ Furniture
     3mEndTable             [ "Трехметровый стол"; "Еще более круглый."; ]
 	Desk                   [ "Письменный стол"; "" ]
     MordernDesk            [ "Современный письменный стол"; "" ]
+    AdjustableDesk               [ "Adjustable Desk"; "" ]
     CheapChair             [ "Дешевый стул"; "Некомфортный пластиковый стул."; "Сидение"; "Опора" ]
+    DiningChair                  [ "Dining Chair"; "For all your non-office sitting needs"; "Seat"; "Support" ]
     OfficeChair
         [
         "Офисный стул"
@@ -32,11 +34,14 @@ Furniture
     ExecutiveChair         [ "Стул председателя"; "Для максимального наслаждения."; "Сидение"; "Опора" ]
 	ErgoChair              [ "Эргономичное кресло"; ""; "Сидение"; "Рамка" ]
     YogaBall               [ "Мяч для йоги"; "" ]
-    WaitingChairs          [ "Скамья ожидания"; ""; "Рамка" ]
+    AngularChair                 [ "Угловой стул"; ""; "Сидение"; "Опора" ]
+    PaddedChair                  [ "Кресло с мягкой обивкой"; ""; "Сидение"; "Опора" ]
+    CafeChair                    [ "Стул для кафе"; ""; "Сидение"; "Опора" ]
+    WaitingChairs          [ "Скамья ожидания"; ""; "Рамка"; "Сидение" ]
     Couch                  [ "Диван"; "Living Room Inc." ]
 	ModernCouch            [ "Современный диван"; "" ]
     LeatherCouch           [ "Кожаный диван"; "" ]
-    Bench                  [ "Скамейка"; "Это скамейка."; "Основание" ]
+    Bench                  [ "Скамейка"; "Это скамейка."; ]
     Shelf                        [ "Полка"; "" ]
     SmallHeater            [ "Маленький обогреватель"; "Скромный обогреватель для Ваших основных офисных нужд."; "Основание" ]
     CeilingFan
@@ -76,6 +81,7 @@ Furniture
         "Вентиляция"
         "Небольшая вентиляционная установка, которая забирает воздух непосредственно с другой стороны стены."
         ]
+    CeilingAC                    [ "Ceiling AC"; ""; "Base" ]
     HeatingFloorGrill      [ "Напольная решётка отопления"; "" ]
     CoolingFloorGrill      [ "Напольная решётка охлаждения"; "" ]
     Industrialventilation
@@ -109,6 +115,7 @@ Furniture
         "Основание"
         ]
     Cubiclewall           [ "Небольшая квадратная стена"; "" ]
+    CubicleWall2           [ "Небольшая квадратная стена"; "" ]
     Lamp
         [
         "Лампа"
@@ -127,6 +134,9 @@ Furniture
         "Освещение"
         ]
     FloorLamp              [ "Напольная лампа"; "Светит, но занимает место."; "Тень"; "Опора" ]
+    OpenFloorLamp                [ "Open Floor Lamp"; ""; "Shade"; "Опора" ]
+    TripodLamp                   [ "Tripod Lamp"; ""; "Shade"; "Joint"; "Опора" ]
+    LightBar                     [ "Light Bar"; ""; "Основание"; "Light" ]
     Fluorescentlamp
         [
         "Флюоресцентная лампа"
@@ -135,6 +145,8 @@ Furniture
         "Опора"
         "Освещение"
         ]
+    ThinHangingLamp              [ "Thin Hanging Lamp"; ""; "Shade"; "Опора"; "Lighting" ]
+    TriangleHangingLamp          [ "Triangle Hanging Lamp"; ""; "Shade"; "Опора"; "Lighting" ]
     OutdoorLamp
         [
         "Уличный фонарь"
@@ -208,6 +220,9 @@ Furniture
         "Большое растение"
         "Занимает много места, но сотрудники не против, потому что это компенсируется внешним видом."
         ]
+    Dracaena                     [ "Dracaena"; "" ]
+    SnakePlant                   [ "Snake Plant"; "" ]
+    Strelitzia                   [ "Strelitzia"; "" ]
     SquareCarpet                 [ "Квадратный ковер"; "" ]
     CornerCarpet                 [ "Угловой ковер"; "" ]
     RoundedCarpet                [ "Ковер с закругленными углами"; "" ]
